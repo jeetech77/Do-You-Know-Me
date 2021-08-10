@@ -19,12 +19,12 @@ var qusObj = [
         ans: "Coding & Gaming"
     },
     {
-        qus: "How is my favourite Marvel superhero...?",
+        qus: "Which one is my favourite Marvel superhero...?",
         options: ['Iron Man', 'Captain America', 'Balck Panther', 'Thor'],
         ans: "Captain America"
     },
     {
-        qus: "How is my favourite DC superhero...?",
+        qus: "Which one is my favourite DC superhero...?",
         options: ['BatMan', 'SuperMan', 'AquaMan', 'Wonder Woman'],
         ans: "BatMan"
     }
